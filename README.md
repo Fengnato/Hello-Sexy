@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-I am getting started with GitHub
+I am finally getting started with GitHub
+
+Is that a super cool thing to do ?
